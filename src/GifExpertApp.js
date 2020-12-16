@@ -10,7 +10,7 @@ export const GifExpertApp = () => {
     return (
         <>
             <div className='background_Header'></div>
-            <h1>GifExpertApp</h1>
+            <h1>React-GiphyAPI</h1>
             <div className='Subheader_Cointainer'>
             <AddCategory setCategories={setCategories} />
             </div>
